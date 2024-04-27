@@ -63,10 +63,7 @@
 		BA5BE7D62BDCE0C9001B9B65 /* ContactListSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				BA5BE7D92BDCE0C9001B9B65 /* ContentView.swift */,
-				BA5BE7F32BDCF09D001B9B65 /* ContactList.swift */,
-				BA5BE7F12BDCEFB3001B9B65 /* PersonView.swift */,
-				BA5BE7EF2BDCECCE001B9B65 /* SectionsContactList.swift */,
+				BA5BE7F52BDCF1CE001B9B65 /* Views */,
 				BA5BE7EE2BDCEC97001B9B65 /* Managers */,
 				BA5BE7ED2BDCEC8B001B9B65 /* Models */,
 				BA5BE7E52BDCE18D001B9B65 /* AppDelegate.swift */,
@@ -99,6 +96,17 @@
 				BA5BE7E92BDCE1F7001B9B65 /* DataManager.swift */,
 			);
 			path = Managers;
+			sourceTree = "<group>";
+		};
+		BA5BE7F52BDCF1CE001B9B65 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BA5BE7D92BDCE0C9001B9B65 /* ContentView.swift */,
+				BA5BE7F32BDCF09D001B9B65 /* ContactList.swift */,
+				BA5BE7F12BDCEFB3001B9B65 /* PersonView.swift */,
+				BA5BE7EF2BDCECCE001B9B65 /* SectionsContactList.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
