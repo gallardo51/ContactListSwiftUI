@@ -15,6 +15,7 @@
 		BA5BE7EA2BDCE1F7001B9B65 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BE7E92BDCE1F7001B9B65 /* DataManager.swift */; };
 		BA5BE7EC2BDCE3A3001B9B65 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BE7EB2BDCE3A3001B9B65 /* Person.swift */; };
 		BA5BE7F02BDCECCE001B9B65 /* SectionsContactList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BE7EF2BDCECCE001B9B65 /* SectionsContactList.swift */; };
+		BA5BE7F22BDCEFB3001B9B65 /* PersonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA5BE7F12BDCEFB3001B9B65 /* PersonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		BA5BE7E92BDCE1F7001B9B65 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		BA5BE7EB2BDCE3A3001B9B65 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		BA5BE7EF2BDCECCE001B9B65 /* SectionsContactList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionsContactList.swift; sourceTree = "<group>"; };
+		BA5BE7F12BDCEFB3001B9B65 /* PersonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				BA5BE7D92BDCE0C9001B9B65 /* ContentView.swift */,
 				BA5BE7EF2BDCECCE001B9B65 /* SectionsContactList.swift */,
+				BA5BE7F12BDCEFB3001B9B65 /* PersonView.swift */,
 				BA5BE7EE2BDCEC97001B9B65 /* Managers */,
 				BA5BE7ED2BDCEC8B001B9B65 /* Models */,
 				BA5BE7E52BDCE18D001B9B65 /* AppDelegate.swift */,
@@ -171,6 +174,7 @@
 				BA5BE7EA2BDCE1F7001B9B65 /* DataManager.swift in Sources */,
 				BA5BE7DA2BDCE0C9001B9B65 /* ContentView.swift in Sources */,
 				BA5BE7E82BDCE18E001B9B65 /* SceneDelegate.swift in Sources */,
+				BA5BE7F22BDCEFB3001B9B65 /* PersonView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
